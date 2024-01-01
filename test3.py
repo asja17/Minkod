@@ -9,7 +9,4 @@ with open('department.csv', newline='') as csvfile:
 
 for item in svensklista:
   print (item)
-
-
-
-   
+  print ("Asim")
